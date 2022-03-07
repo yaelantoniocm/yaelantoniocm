@@ -1,18 +1,16 @@
 ### Hi there 👋
+My name is Yael Antonio, Im 21.
 
-<!--
-**yaelantoniocm/yaelantoniocm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer science student. 📚
+- I am looking to work as a video game tester or designer or 3D animator or 3D designer 🎮
+- I love designing things in blender 🖱️
+- I love videogames, especially ARK. 🦖
+- I keep accommodating and adding repositories :p
+- I really like playing sports, like soccer ⚽
+- I speak English and Spanish. 🔈
+- Right now I would like to have more time to practice other things that I like 😞
+- I really like creative 3D stuff. 🎲
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can contact me at my email: yaelantoniocm@ciencias.unam.mx
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelantoniocm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
