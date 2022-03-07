@@ -13,4 +13,4 @@ My name is Yael Antonio, Im 21.
 
 You can contact me at my email: yaelantoniocm@ciencias.unam.mx
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelantoniocm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelantoniocm)](https://github.com/anuraghazra/github-readme-stats)
