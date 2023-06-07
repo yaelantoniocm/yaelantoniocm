@@ -11,6 +11,7 @@ My name is Yael Antonio, Im 21.
 - Right now I would like to have more time to practice other things that I like 😞
 - I really like creative 3D stuff. 🎲
 - Youtube channel with computer stuff: https://www.youtube.com/channel/UCCUrQc5CXYdtzdAXC5P2m2A
-You can contact me at my email: yaelantoniocm@ciencias.unam.mx
+
+- You can contact me at my email: yaelantoniocm@ciencias.unam.mx
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelantoniocm&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
