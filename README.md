@@ -8,7 +8,6 @@ My name is Yael Antonio, Im 22.
 - I keep accommodating and adding repositories :p
 - I really like playing sports, like soccer ⚽
 - I speak English and Spanish. 🔈
-- Right now I would like to have more time to practice other things that I like 😞
 - I really like creative 3D stuff. 🎲
 - Youtube channel with computer stuff: https://www.youtube.com/channel/UCCUrQc5CXYdtzdAXC5P2m2A
 
