@@ -10,5 +10,6 @@ My name is Yael Antonio, Im 22.
 - I speak English and Spanish. 🔈
 - I really like creative 3D stuff. 🎲
 - Youtube channel with computer stuff: https://www.youtube.com/channel/UCCUrQc5CXYdtzdAXC5P2m2A
+- For contact email: yaelantoniocm@ciencias.unam.mx
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelantoniocm&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
